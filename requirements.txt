@@ -10,7 +10,7 @@ Requests==2.32.3
 safetensors==0.4.5
 scipy==1.10.1
 sentencepiece==0.1.99
-torch==2.5.1
+torch==2.13.0
 torchvision==0.20.1
 transformers==4.49.0
 #flash_attn==2.5.8
